@@ -26,15 +26,5 @@ Requirements
   -mysql-connector-python
   -matplotlib
 
-Create a MySQL server and replace the connection parameters to connect the app with your own database.
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
+Create a MySQL server and replace the connection parameters in db_connector.py to connect the app with your own database.
+Remote Database server will expire after 2025/8/29.
